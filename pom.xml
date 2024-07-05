@@ -40,47 +40,45 @@
         <dependencies>
             <!--    模块依赖    -->
             <dependency>
-                <groupId>com.baiyan</groupId>
-                <artifactId>baiyan-ddd-base</artifactId>
-                <version>${project.version}</version>
+                <groupId>com.xqcoder</groupId>
+                <artifactId>xqcoder-ddd-base</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.baiyan</groupId>
-                <artifactId>baiyan-ddd-api</artifactId>
-                <version>${project.version}</version>
+                <groupId>com.xqcoder</groupId>
+                <artifactId>xqocder-ddd-api</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.baiyan</groupId>
-                <artifactId>baiyan-ddd-rpc</artifactId>
-                <version>${project.version}</version>
+                <groupId>com.xqcoder</groupId>
+                <artifactId>xqcoder-ddd-rpc</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.baiyan</groupId>
-                <artifactId>baiyan-ddd-domain</artifactId>
-                <version>${project.version}</version>
+                <groupId>com.xqcoder</groupId>
+                <artifactId>xqcoder-ddd-domain</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.baiyan</groupId>
-                <artifactId>baiyan-ddd-infrastructure</artifactId>
-                <version>${project.version}</version>
+                <groupId>com.xqcoder</groupId>
+                <artifactId>xqcoder-ddd-infrastructure</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.baiyan</groupId>
-                <artifactId>baiyan-ddd-application</artifactId>
-                <version>${project.version}</version>
+                <groupId>com.xqcoder</groupId>
+                <artifactId>xqcoder-ddd-application</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.baiyan</groupId>
-                <artifactId>baiyan-ddd-interaction</artifactId>
-                <version>${project.version}</version>
+                <groupId>com.xqcoder</groupId>
+                <artifactId>xqcoder-ddd-interaction</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>com.baiyan</groupId>
-                <artifactId>baiyan-ddd-start</artifactId>
-                <version>${project.version}</version>
+                <groupId>com.xqcoder</groupId>
+                <artifactId>xqcoder-ddd-start</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
             </dependency>
-
-
             <!--    三方依赖        -->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
